@@ -1,0 +1,23 @@
+{
+  "name": "rbxadminserver",
+  "version": "1.0.0",
+  "description": "This is the server of the rbxAdmin. This handles authorizing people into the terminal &amp; handles making the calls to the ER:LC API.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "WhoAboutYT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhoAboutYT/rbxAdminServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WhoAboutYT/rbxAdminServer/issues"
+  },
+  "homepage": "https://github.com/WhoAboutYT/rbxAdminServer#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
